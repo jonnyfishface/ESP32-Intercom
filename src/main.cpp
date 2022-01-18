@@ -10,6 +10,9 @@ const char* password = "quickhill494";
 // Set web server port number to 80
 WiFiServer server(80);
 
+// this line can be deleted
+// so can this line
+
 // Variable to store the HTTP request
 String header;
 
